@@ -1,7 +1,4 @@
 # j-prospect-convertor
-
-Super, mettons tout à jour. Voici le README, le planning et la structure SQL qui intègrent l'option d'un service de mailing open source (comme Mautic ou Mailtrain) géré par votre API, en plus de toutes les autres fonctionnalités.
-
 README du Projet : J-Prospect Convertor
 1. Introduction
 J-Prospect Convertor est une solution de gestion de prospects développée par Jaxe Tech. Elle est composée d'une API robuste pour la gestion centralisée des données et de diverses applications clientes (web, mobile, desktop).
